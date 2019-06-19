@@ -1,0 +1,38 @@
+#map {
+    height: 400px;  /* The height is 400 pixels */
+    width: 40%;  /* The width is the width of the web page */
+}
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body, html {
+    height: 100%;
+    width: 100%;
+  }
+  
+
+header{
+    background-color: #23232e;
+    text-align: center;
+    height: 200px;
+}
+
+.title{
+    color: white;
+    position: relative;
+    top: 30%;
+}
+
+.map{
+    width: 100%;
+    height: 700px;
+}
+
+footer{
+    text-align: center;
+    background-color: #23232e;
+    color: white;
+}
